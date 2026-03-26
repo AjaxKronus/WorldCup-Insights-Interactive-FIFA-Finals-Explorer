@@ -1,1 +1,170 @@
-
+[
+  {
+    "year": 1930,
+    "winner": "Uruguay",
+    "winner_flag":"🇺🇾",
+    "score": "4–2",
+    "runner_up": "Argentina",
+    "runner_up_flag":"🇦🇷"
+  },
+  {
+    "year": 1934,
+    "winner": "Italy",
+    "winner_flag":"🇮🇹",
+    "score": "2–1 (a.e.t.)",
+    "runner_up": "Czechoslovakia",
+    "runner_up_flag":"🇨🇿"
+  },
+  {
+    "year": 1938,
+    "winner": "Italy",
+    "winner_flag":"🇮🇹",
+    "score": "4–2",
+    "runner_up": "Hungary",
+    "runner_up_flag":"🇭🇺"
+  },
+  {
+    "year": 1950,
+    "winner": "Uruguay",
+    "winner_flag":"🇺🇾",
+    "score": "2–1",
+    "runner_up": "Brazil",
+    "runner_up_flag":"🇧🇷"
+  },
+  {
+    "year": 1954,
+    "winner": "West Germany",
+    "winner_flag":"🇩🇪",
+    "score": "3–2",
+    "runner_up": "Hungary",
+    "runner_up_flag":"🇭🇺"
+  },
+  {
+    "year": 1958,
+    "winner": "Brazil",
+    "winner_flag":"🇧🇷",
+    "score": "5–2",
+    "runner_up": "Sweden",
+    "runner_up_flag":"🇸🇪"
+  },
+  {
+    "year": 1962,
+    "winner": "Brazil",
+    "winner_flag":"🇧🇷",
+    "score": "3–1",
+    "runner_up": "Czechoslovakia",
+    "runner_up_flag":"🇨🇿"
+  },
+  {
+    "year": 1966,
+    "winner": "England",
+    "winner_flag":"🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "score": "4–2 (a.e.t.)",
+    "runner_up": "West Germany",
+    "runner_up_flag":"🇩🇪"
+  },
+  {
+    "year": 1970,
+    "winner": "Brazil",
+    "winner_flag":"🇧🇷",
+    "score": "4–1",
+    "runner_up": "Italy",
+    "runner_up_flag":"🇮🇹"
+  },
+  {
+    "year": 1974,
+    "winner": "West Germany",
+    "winner_flag":"🇩🇪",
+    "score": "2–1",
+    "runner_up": "Netherlands",
+    "runner_up_flag":"🇳🇱"
+  },
+  {
+    "year": 1978,
+    "winner": "Argentina",
+    "winner_flag":"🇦🇷",
+    "score": "3–1 (a.e.t.)",
+    "runner_up": "Netherlands",
+    "runner_up_flag":"🇳🇱"
+  },
+  {
+    "year": 1982,
+    "winner": "Italy",
+    "winner_flag":"🇮🇹",
+    "score": "3–1",
+    "runner_up": "West Germany",
+    "runner_up_flag":"🇩🇪"
+  },
+  {
+    "year": 1986,
+    "winner": "Argentina",
+    "winner_flag":"🇦🇷",
+    "score": "3–2",
+    "runner_up": "West Germany",
+    "runner_up_flag":"🇩🇪"
+  },
+  {
+    "year": 1990,
+    "winner": "West Germany",
+    "winner_flag":"🇩🇪",
+    "score": "1–0",
+    "runner_up": "Argentina",
+    "runner_up_flag":"🇦🇷"
+  },
+  {
+    "year": 1994,
+    "winner": "Brazil",
+    "winner_flag":"🇧🇷",
+    "score": "3–2 (pen., 0–0 a.e.t.)",
+    "runner_up": "Italy",
+    "runner_up_flag":"🇮🇹"
+  },
+  {
+    "year": 1998,
+    "winner": "France",
+    "winner_flag":"🇫🇷",
+    "score": "3–0",
+    "runner_up": "Brazil",
+    "runner_up_flag":"🇧🇷"
+  },
+  {
+    "year": 2002,
+    "winner": "Brazil",
+    "winner_flag":"🇧🇷",
+    "score": "2-0",
+    "runner_up": "Germany",
+    "runner_up_flag":"🇩🇪"
+  },
+  {
+    "year": 2006,
+    "winner": "Italy",
+    "winner_flag":"🇮🇹",
+    "score": "5-3 (pen., 1–1 a.e.t.)",
+    "runner_up": "France",
+    "runner_up_flag":"🇫🇷"
+  },
+  {
+    "year": 2010,
+    "winner": "Spain",
+    "winner_flag":"🇪🇸",
+    "score": "1–0 (a.e.t.)",
+    "runner_up": "Netherlands",
+    "runner_up_flag":"🇳🇱"
+  },
+  {
+    "year": 2014,
+    "winner": "Germany",
+    "winner_flag":"🇩🇪",
+    "score": "1–0 (a.e.t.)",
+    "runner_up": "Argentina",
+    "runner_up_flag":"🇦🇷"
+  },
+  {
+    "year": 2018,
+    "winner": "France",
+    "winner_flag":"🇫🇷",
+    "score": "4–2",
+    "runner_up": "Croatia",
+    "runner_up_flag":"🇭🇷"
+  }
+]
